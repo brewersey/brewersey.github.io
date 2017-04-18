@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: My First Blog Post!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello.  A little bit about me....  I've been a reaserch scientist for many years getting my start in high school as a summer intern at NASA AMES Research Center in Mountain View, CA.  Since then I've worked at many of Silicon Valley's leading research institutues.  Now I'm studing data science.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Why?  Because I find it interesting and the subject matter appeals to my problem solving instincts.  After some gently probbling from friends, I stated my foray into data science ~2 years ago at Coursera.   Since then I got the data science bug.  Now I'm at Metis honing my data science skills. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Skill number one is Python programing.  I stated Python self study about a year ago then went on to formal study at the Data Incubator (Thank you Jim!).
+
+So I had a decent backgound starting python here at Metis.  However, I'm still getting use to python's "clunkyness" .  That hasn't stopped me from getting some useful info from the MTA database.  If I were registering student voter's I'd like setup my boot at a MTA station near a CUNY school in Queens as apposed at a station stop near Columbia.
+
