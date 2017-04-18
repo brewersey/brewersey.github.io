@@ -3,7 +3,7 @@ layout: post
 title: My First Blog Post!
 ---
 
-Hello.  A little bit about me....  I've been a reaserch scientist for many years getting my start in high school as a summer intern at NASA AMES Research Center in Mountain View, CA.  Since then I've worked at many of Silicon Valley's leading research institutues.  Now I'm studing data science.
+Hello.  A little bit about me....  I've been a reaserch scientist for many years getting my start in high school as a summer intern at NASA AMES Research Center in Mountain View, CA.  Since then I've worked at many of Silicon Valley's leading research institutues and am currently a resarch affiliate at Lawrence Berkeley Lab.  Now I'm studing data science.
 
 Why?  Because I find it interesting and the subject matter appeals to my problem solving instincts.  After some gently probbling from friends, I started my foray into data science ~2 years ago at Coursera.   Since then I got the data science bug.  Now I'm at Metis honing my data science skills. 
 
