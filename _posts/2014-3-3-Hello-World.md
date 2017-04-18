@@ -9,5 +9,5 @@ Why?  Because I find it interesting and the subject matter appeals to my problem
 
 Skill number one is Python programing.  I stated Python self study about a year ago then went on to formal study at the Data Incubator (Thank you Jim!).
 
-So I had a decent backgound starting python here at Metis.  However, I'm still getting use to python's "clunkyness" .  That hasn't stopped me from getting some useful info from the MTA database.  If I were registering student voter's I'd like setup my boot at a MTA station near a CUNY school in Queens as apposed at a station stop near Columbia.
+So I had a decent backgound starting python here at Metis.  However, I'm still getting use to python's "clunkyness" .  That hasn't stopped me from getting some useful info from the [MTA database](http://web.mta.info/developers/turnstile.html).  If I were registering student voter's I'd like setup my boot at a MTA station near a CUNY school in Queens as apposed at a station stop near Columbia.
 
