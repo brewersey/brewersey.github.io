@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog Post!
+title: It All Starts Here!
 ---
 
 Hello. A little bit about me.... I've been a research scientist for many years getting my start in high school as a summer intern at NASA AMES Research Center in Mountain View, CA. Since then I've worked at many of Silicon Valley's leading research institutes and am currently a research affiliate at Lawrence Berkeley Lab. Now I'm studying data science.
