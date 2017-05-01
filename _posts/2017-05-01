@@ -3,4 +3,11 @@ layout: post
 title: Is There Something Rotten in Total Box Office Gross?
 ---
 
-I just finished analyzing data scrapped from Box Office Mojo and Rotten Tomatoes, and it was an eye openning experinece.
+I just finished analyzing data scrapped from Box Office Mojo and Rotten Tomatoes, and it was an eye opening experience. To begin, I wanted to determine the impact Rotten Tomatoes' critic's score had on the total box office gross of a movie. I became interested in the affect of critic reviews in general and Rotten Tomatoes in particular after “Batman Vs Superman” received a poor rating on Rotten Tomatoes.  So how much more could that movie had made if it had scored hire with the critics?
+
+After preforming a linear regression on the data it became apparent that total gross on the opening bay is a better indicator of total box office gross than Rotten Tomatoes score.  That doesn't mean that Rotten Tomatoes Scores has no relevance.  It does, it just is very small compared to the total opening gross for a movie.  
+
+Of course if you want your movie to make $1 billion every little detail matters, so paying attention to movie quality as determined by Rotten Tomatoes and other ratings aggregators could help eek out that additional $20 million that puts you over the edge.
+
+
+
