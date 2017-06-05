@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a scientist located in the San Francisco Bay area who specializes in data science and materials characterization.  My interest include natural language processing, machine learning, spectroscopy and nanomaterials 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
