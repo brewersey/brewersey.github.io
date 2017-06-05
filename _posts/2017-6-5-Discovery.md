@@ -1,5 +1,7 @@
-Did I just solve a centuries old mystery?
-
+---
+layout: post
+title: Did I just solve a centuries old mystery?
+---
 A week a go I started a new natural language processing (NLP) project in the area of machine translation.  Essentially I'm building a scaled down version of Google Translate.  Google Translate will translate between virtually any language, but my translator will only translate from Old Norse into English.
 
 Why you ask?  For many years I have been interested in the history of the viking age and have read many of the Icelandic Sagas.  Some of these works of literature are available online, but not in English.  So I thought it would be a fun project to see how well I could code an algorithm to do the translation for me.
