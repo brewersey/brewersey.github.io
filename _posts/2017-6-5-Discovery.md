@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did I just solve a centuries old mystery?
+title: Did I Just Solve A Centuries Old Mystery?
 ---
 A week ago I started a new natural language processing (NLP) project in the area of machine translation.  Essentially I'm building a scaled down version of Google Translate.  Google Translate will translate between virtually any language, but my translator will only translate from Old Norse into English.
 
